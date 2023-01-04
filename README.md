@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-      <a href="https://{your-url-to-the-solution}">
+      <a href="https://abc-windbnb-dev-challenge.netlify.app/">
       Solution
     </a>
     <span> | </span>
@@ -50,7 +50,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/AbhinavChavare/Windbnd-dev-challenge.git
 
 # Install dependencies
 $ npm install
@@ -67,6 +67,6 @@ $ npm start
 
 ## Contact
 
-- Website [your-website.com](https://{your-web-site-link})
-- GitHub [@your-username](https://{github.com/your-usermame})
-- Twitter [@your-twitter](https://{twitter.com/your-username})
+- Website [Windbnb](https://abc-windbnb-dev-challenge.netlify.app/)
+- GitHub [AbhinavChavare](https://github.com/AbhinavChavare)
+- Twitter [@your-twitter](https://twitter.com/abhinavchavare7)
